@@ -6,6 +6,10 @@
 
 Terry is a Discord Bot made with the discord.py API.
 
+# Requirements
+
+### Visual Studio 2019
+
 
 ## TODO-List
 
@@ -13,7 +17,7 @@ Terry is a Discord Bot made with the discord.py API.
  2. Write to database on Command use
  3. Badword response
 
-## Actual Features
+### Actual Features
 
 ✔ Command Control
 

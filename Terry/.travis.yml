@@ -1,0 +1,5 @@
+language: python
+os: Windows; Linux
+
+git:
+  depth: 3
