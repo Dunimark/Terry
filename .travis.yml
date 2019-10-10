@@ -1,4 +1,4 @@
-language: python3.7.4
+language: python
 os: Windows; Linux
 
 git:
