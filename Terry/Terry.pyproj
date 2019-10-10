@@ -3,15 +3,16 @@
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>790199de-e3ff-4280-ba49-6a947c31505c</ProjectGuid>
-    <ProjectHome>.</ProjectHome>
-    <StartupFile>KrümelBot.py</StartupFile>
+    <ProjectHome>
+    </ProjectHome>
+    <StartupFile>Terry.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
     <InterpreterId>Global|PythonCore|3.7-32</InterpreterId>
     <LaunchProvider>Standard Python launcher</LaunchProvider>
     <OutputPath>.</OutputPath>
-    <Name>KrümelBot</Name>
+    <Name>Terry</Name>
     <RootNamespace>KrümelBot</RootNamespace>
     <IsWindowsApplication>False</IsWindowsApplication>
     <EnableNativeCodeDebugging>False</EnableNativeCodeDebugging>
@@ -28,7 +29,7 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
-    <None Include="KrümelBot.py" />
+    <None Include="Terry.py" />
   </ItemGroup>
   <ItemGroup>
     <InterpreterReference Include="Global|PythonCore|3.7-32" />
