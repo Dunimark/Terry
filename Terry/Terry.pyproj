@@ -38,9 +38,6 @@
     <Content Include=".env">
       <SubType>Code</SubType>
     </Content>
-    <Content Include=".travis.yml">
-      <SubType>Code</SubType>
-    </Content>
     <Content Include="badwords.txt" />
     <Content Include="badwords_en.txt" />
     <Content Include="de.txt" />
