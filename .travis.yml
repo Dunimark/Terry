@@ -1,5 +1,11 @@
 language: python
-os: Windows; Linux
+python:
+  - "3.7"
+
+# command to install dependencies
+install:
+  - pip install discord.py
+  - pip install python-dotenv
 
 git:
   depth: 3
