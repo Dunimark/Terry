@@ -1,0 +1,1 @@
+copy /a "badwords__.txt"+"badwords_en.txt"+"de.txt"+"swearWords.txt" "badwords.txt"
