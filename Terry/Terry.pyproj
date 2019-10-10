@@ -45,6 +45,7 @@
     <Content Include="requirements.txt" />
     <Content Include="swearWords.txt" />
     <Content Include="Markdown\todo.md" />
+    <Content Include="vss.ppk" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Markdown\" />

@@ -336,5 +336,6 @@ ASALocalRun/
 # Local History for Visual Studio
 .localhistory/
 
-# BeatPulse healthcheck temp database
-healthchecksdb
+# Putty Keys
+.ppk
+/ssh.sh
