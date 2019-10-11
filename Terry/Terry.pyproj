@@ -35,10 +35,13 @@
     <InterpreterReference Include="Global|PythonCore|3.7-32" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include=".env">
+    <Content Include="Env\.env">
       <SubType>Code</SubType>
     </Content>
     <Content Include="badwords.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Env\" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
