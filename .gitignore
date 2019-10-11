@@ -339,3 +339,5 @@ ASALocalRun/
 # Putty Keys
 .ppk
 /ssh.sh
+/Terry/Badwords
+/Terry/merge.ps1

@@ -39,11 +39,6 @@
       <SubType>Code</SubType>
     </Content>
     <Content Include="badwords.txt" />
-    <Content Include="badwords_en.txt" />
-    <Content Include="de.txt" />
-    <Content Include="merge.bat" />
-    <Content Include="requirements.txt" />
-    <Content Include="swearWords.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in

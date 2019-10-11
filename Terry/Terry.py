@@ -15,7 +15,7 @@ bot = commands.Bot(command_prefix=prefix)
 
 #  Bad Words and Phrases
 with open("badwords.txt") as file: # bad-words.txt contains one blacklisted phrase per line
-    bad_words = [bad_word.strip().lower() for bad_word in file.readlines()]
+    bad_words = [bad_word.strip() for bad_word in file.readlines()]
 
 # Logging
 logger = logging.getLogger('discord')
@@ -53,15 +53,13 @@ async def on_message(message):
             if message.author.name == bot.user.name:
                 return
             elif any(bad_word in message.content for bad_word in bad_words):
-             #user = message.author
              response = '{} No You, '.format(message.author.mention)
              respo = message.content
              await message.channel.send(response + respo)
-             #await message.delete()
             
 
      elif any(bad_word in message.content for bad_word in bad_words):
-         response = '{}, your message has been censored.'.format(message.author.mention)
+         response = '{}, no swearing on my christn server!.'.format(message.author.mention)
          await message.channel.send(response)
          await message.delete() 
         
