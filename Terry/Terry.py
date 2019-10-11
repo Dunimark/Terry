@@ -19,7 +19,7 @@ with open("badwords.txt") as file: # bad-words.txt contains one blacklisted phra
 
 # Logging
 logger = logging.getLogger('discord')
-logger.setLevel(logging.ALL)
+logger.setLevel(logging.INFO)
 handler = logging.FileHandler(filename='discord.log',encoding='utf-8', mode='w')
 handler.setFormatter(logging.Formatter('%(asctime)s:%(levelname)s:%(name)s: %(message)s'))
 logger.addHandler(handler)
@@ -59,7 +59,7 @@ async def on_message(message):
             
 
      elif any(bad_word in message.content for bad_word in bad_words):
-         response = '{}, no swearing on my christn server!.'.format(message.author.mention)
+         response = '{}, no swearing on my christian server!.'.format(message.author.mention)
          await message.channel.send(response)
          await message.delete() 
         

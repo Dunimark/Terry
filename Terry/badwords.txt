@@ -1288,12 +1288,12 @@ DZIWKA
 DzIwKa
 dziwka
 Dziwka
-dÃ¶del
-DöDeL
-Dödel
-DÖDEL
-dÖdEl
-Dödel
+dÃƒÂ¶del
+DÃ¶DeL
+DÃ¶del
+DÃ–DEL
+dÃ–dEl
+DÃ¶del
 EaT My aSs
 Eat My Ass
 EAT MY ASS
@@ -2590,12 +2590,12 @@ LOVEMAKING
 LoVeMaKiNg
 lovemaking
 Lovemaking
-lÃ¼mmel
-LüMmEl
-Lümmel
-LÜMMEL
-lÜmMeL
-Lümmel
+lÃƒÂ¼mmel
+LÃ¼MmEl
+LÃ¼mmel
+LÃœMMEL
+lÃœmMeL
+LÃ¼mmel
 mAkE Me cOmE
 Make Me Come
 MAKE ME COME
@@ -2890,18 +2890,18 @@ MUTHA FUKKER
 MuThA FuKkEr
 Mutha Fukker
 Mutha fukker
-MöPsE
-Möpse
-MÖPSE
-mÖpSe
-möpse
-Möpse
-MöSe
-Möse
-MÖSE
-mÖsE
-möse
-Möse
+MÃ¶PsE
+MÃ¶pse
+MÃ–PSE
+mÃ–pSe
+mÃ¶pse
+MÃ¶pse
+MÃ¶Se
+MÃ¶se
+MÃ–SE
+mÃ–sE
+mÃ¶se
+MÃ¶se
 N1Gr
 N1gr
 N1GR
@@ -3928,12 +3928,12 @@ SCHEISSER
 sChEiSsEr
 scheisser
 Scheisser
-sChEiÃÿE
-Scheiãÿe
-SCHEIÃŸE
-ScHeIãŸe
-scheiÃŸe
-Scheiãÿe
+sChEiÃƒÃ¿E
+ScheiÃ£Ã¿e
+SCHEIÃƒÅ¸E
+ScHeIÃ£Å¸e
+scheiÃƒÅ¸e
+ScheiÃ£Ã¿e
 ScHiEsSeR
 Schiesser
 SCHIESSER
@@ -4750,12 +4750,12 @@ VULVA
 vUlVa
 vulva
 Vulva
-vÃ¶geln
-vÖgElN
-Vögeln
-VÖGELN
-VöGeLn
-Vögeln
+vÃƒÂ¶geln
+vÃ–gElN
+VÃ¶geln
+VÃ–GELN
+VÃ¶GeLn
+VÃ¶geln
 W00sE
 W00se
 W00SE
