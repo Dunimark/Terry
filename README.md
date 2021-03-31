@@ -4,7 +4,7 @@
 
 # Terry
 
-Terry is a Discord Bot made with the discord.py API.
+Terry is a Discord Bot made with the discord.py libary.
 
 # Requirements
 
